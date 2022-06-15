@@ -1,0 +1,16 @@
+#listOfStudents {
+  display: flex;
+  border: 1px solid black;
+  justify-content:space-around;
+}
+
+.redCard {
+  border: 2px solid red;
+}
+
+.greenCard {
+  border: 2px solid green;
+}
+.selected{
+  background-color: gray;
+}
